@@ -5,7 +5,8 @@
 /* Step 2 - Variables */
 let fullName = 'Tiffany Claire Nocos';
 let currentYear = '2023'
-let profilePicture = '../../../../../../images/face.jpg';
+let profilePicture = '/absolute/path/to/images/face.jpg';
+
 
 
 /* Step 3 - Element Variables */
